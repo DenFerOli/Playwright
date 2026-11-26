@@ -5,3 +5,7 @@ executar os testes no modo headless
 Executar os testes exibindo o navegador
 
 ``` npx playwright test --headed ```
+
+Para exibir a interface com os passos
+
+``` npx playwright test --ui ```
